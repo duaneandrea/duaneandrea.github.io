@@ -51,7 +51,10 @@ HTML5 and CSS3
 To get a local copy up and running, follow these steps.
 
 - [ ] Clone the repo from here:
-  - https://github.com/duaneandrea/microverse-portfolio.git
+  - https://github.com/duaneandrea/duaneandrea.github.io
+
+  - [ ] The project is available here:
+    - https://duaneandrea.github.io/  
 
 ### Prerequisites
 
@@ -64,7 +67,7 @@ In order to run this project you need:
 ### Setup
 
 - Clone this repository from this link: 
-[Github](https://github.com/duaneandrea/microverse-portfolio.git)
+[Github](https://github.com/duaneandrea/duaneandrea.github.io)
 
 ### Usage
 
@@ -104,7 +107,7 @@ LinkedIn: [Duane Andrea](https://www.linkedin.com/in/duaneandrea/)
 
 You are welcome to contribute, report issues, and request new features!
 
-Feel free to check the [issues page](https://github.com/duaneandrea/microverse-portfolio/issues).
+Feel free to check the [issues page](https://github.com/duaneandrea/duaneandrea.github.io/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
