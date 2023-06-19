@@ -1,136 +1,190 @@
-
 <a name="readme-top"></a>
+
+
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Usage](#usage)
-  - [Deployment](#deployment)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐ Show your support](#support)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
 # 📖 Portfolio <a name="about-project"></a>
 
-My second microverse project is a portfolio site that I created using HTML and CSS flex styling with a mobile-first approach.
+- This website shows a sneak peek into the projects I have developed and deployed, showcasing my skills in HTML and CSS.With a passion for web development, I have honed my expertise in these technologies to create stunning and functional websites.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-Visual Studio Code (VS Code)
-
-### Tech Stack <a name="tech-stack"></a>
-HTML5 and CSS3
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://html.org/">HTML</a></li>
-    <li><a href="https://css.org/">CSS</a></li>
-  </ul>
-</details>
-
-### Key Features <a name="key-features"></a>
-
-- *Index Page*
+- HTML
+- CSS
+- linter
+- Github Pages
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Key Features
+
+- Deploy the project using GitHub Pages😊👌
+- Responsive design💯
+-  User friendly .🚀
+- Following the Figma design 😃👍
+
+
+🚀 Live Demo
+
+- You can see the live demo of the portfolio [Here](https://duaneandrea.github.io/)😊⤵️
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+
+
 To get a local copy up and running, follow these steps.
-
-- [ ] Clone the repo from here:
-  - https://github.com/duaneandrea/duaneandrea.github.io
-
-  - [ ] The project is available here:
-    - https://duaneandrea.github.io/  
 
 ### Prerequisites
 
 In order to run this project you need:
 
-- You need a PC.
-- A web browser
 
+Example command:
+
+```sh
+1.use a browser
+2.use cable internet
+```
+ 
 
 ### Setup
 
-- Clone or test this project from this link: 
-[Clone on Github](https://github.com/duaneandrea/duaneandrea.github.io)
-[Visit on browser](https://duaneandrea.github.io/)
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  
+  git clone git@github.com:duaneandrea/duaneandrea.github.io.git
+  cd duaneandrea.github.io
+
+
+```
+
+
+### Install
+
+Install this project with:
+
+
+Example command:
+
+```sh
+  npm install
+```
+
 
 ### Usage
 
--  Clone repository 
+To run the project, execute the following command:
 
--  Launch index.html with a web browser
+
+Example command:
+
+```sh
+- Open the index with live server.
+- Or if you don't have a live server extension open the index in the browser by clicking on the file .
+```
+
+
+### Run tests
+
+To run tests for the linter, run the following command:
+
+
+Example command:
+
+```sh
+npx hint .
+npx eslint .
+```
+
+
+### Deployment
+
+I deployed this project using:
+
+- Github Pages
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 👥 Authors <a name="authors"></a>
 
+👤 **Simbarashe Andrea**
 
-## 👥 Author <a name="authors"></a>
-
-
-GitHub:[ @duaneandrea](https://github.com/duaneandrea)
-Twitter:[ @duaneandrea](https://twitter.com/duane_andrea)
-LinkedIn: [Duane Andrea](https://www.linkedin.com/in/duaneandrea/)
-
-
+- GitHub: [duaneandrea](https://github.com/duaneandrea)
+- Twitter: [duaneandrea](https://twitter.com/duane_andrea)
+- LinkedIn: [duaneandrea](https://www.linkedin.com/in/duaneandrea/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- *Add About Page*
-- *Add Contact Page*
+- [ ] Solve the accessibility issues.
+- [ ] Add more styling💯.
+- [ ] Add Popup window for the deatils of each project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-You are welcome to contribute, report issues, and request new features!
+Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/duaneandrea/duaneandrea.github.io/issues).
+Feel free to check the [Isuues Pages](https://github.com/duaneandrea/duaneandrea.github.io/issues)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
 
-## ⭐ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give it a ⭐
+
+If you like this project kindly give it a star⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I express my gratitude to Microverse and my code reviewer for their support in making this project possible.All their contributions are greatly appreciated.
+
+I would like to thank Ekpenisi E Raphael for the immense support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/duaneandrea/duaneandrea.github.io/blob/main/LICENSE.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
