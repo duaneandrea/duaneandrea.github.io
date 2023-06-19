@@ -66,8 +66,9 @@ In order to run this project you need:
 
 ### Setup
 
-- Clone this repository from this link: 
-[Github](https://github.com/duaneandrea/duaneandrea.github.io)
+- Clone or test this project from this link: 
+[Clone on Github](https://github.com/duaneandrea/duaneandrea.github.io)
+[Visit on browser](https://duaneandrea.github.io/)
 
 ### Usage
 
@@ -130,6 +131,6 @@ I express my gratitude to Microverse and my code reviewer for their support in m
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/duaneandrea/microverse-portfolio/blob/features-portfolio/LICENSE.md) licensed.
+This project is [MIT](https://github.com/duaneandrea/duaneandrea.github.io/blob/main/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
