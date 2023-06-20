@@ -721,7 +721,7 @@ body {
   }
 
   .works_card_img:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
   }
 
   .works_card:nth-child(1),
