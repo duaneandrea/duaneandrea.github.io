@@ -269,6 +269,10 @@ body {
   width: 100%;
 }
 
+.works_card_img:hover {
+  transform: scale(1.5);
+}
+
 .works_card_subtitle {
   align-items: center;
   column-gap: 2rem;
@@ -714,6 +718,10 @@ body {
 
   .works_card_img {
     width: 50%;
+  }
+
+  .works_card_img:hover {
+    transform: scale(1.1);
   }
 
   .works_card:nth-child(1),
